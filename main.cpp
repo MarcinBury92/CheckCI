@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
 	cout<<" Hello world "<<endl;
-        cout<<"Psujemy cos w pliku main"<<endl;
+        cout<<"Poprawny kod zielona fajka"<<endl;
 
-dksdsdssferer;fddf	
+	
 	return 0;
 }
